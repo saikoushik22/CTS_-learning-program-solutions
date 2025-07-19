@@ -1,2 +1,0 @@
-spring.application.name=account
-server.port=8080
